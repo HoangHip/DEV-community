@@ -1,0 +1,112 @@
+body {
+    background: black
+}
+.main-nav {
+position: absolute;
+width: 1152px;
+height: 70px;
+left: 0px;
+top: 0px;
+background: rgba(196, 196, 196, 0.4);
+}
+
+.logo {
+position: absolute;
+width: 178px;
+height: 70px;
+left: 33px;
+top: 0px;
+
+font-family: Lobster;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 60px;
+
+color: #000000;
+}
+
+.main-slogan {
+position: absolute;
+width: 288px;
+height: 159px;
+left: 158px;
+top: 261px;
+
+font-family: Lobster;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 60px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+span {
+position: absolute;
+width: 254px;
+height: 80px;
+left: 565px;
+top: 434px;
+
+font-family: Lobster;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 60px;
+
+color: #FFFFFF;
+}
+
+#DEV-btn {
+position: absolute;
+width: 181px;
+height: 76px;
+left: 426px;
+top: 507px;
+
+background: #FF7B55;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 5px;
+
+font-family: Yrsa;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
+
+#employer-btn {
+position: absolute;
+width: 181px;
+height: 76px;
+left: 669px;
+top: 507px;
+
+background: #10568B;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 5px;
+
+font-family: Yrsa;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
