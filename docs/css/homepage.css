@@ -1,5 +1,10 @@
 body {
-    background: black
+position: relative;
+width: 1152px;
+height: 700px;
+
+background: url(Header_08.jpg);
+backdrop-filter: blur(2px);
 }
 .main-nav {
 position: absolute;
