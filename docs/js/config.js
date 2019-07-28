@@ -1,5 +1,7 @@
 const config = {
-    FORM_DEV_LOG_IN_ID : 'form-dev-log-in',
+    FORM_REGISTER_ID: 'form-register',
+    FORM_LOG_IN_ID: 'form-log-in',
+    FORM_CHAT_ID: 'form-chat',
 
     INPUT_EMAIL_NAME: 'email',
     INPUT_PWD_NAME: 'password',
@@ -15,4 +17,7 @@ const config = {
 
     MESSAGE_ERROR_ID: 'message-error',
     MESSAGE_SUCCESS_ID: 'message-success',
+
+    SELECT_TYPE_ID : 'select-type'
+
 }

@@ -7,9 +7,9 @@ view.home = function () {
     DEV_btn.onclick = DEVbuttonClickHandler
     Employer_btn.onclick = EmployerbuttonClickHandler
     function DEVbuttonClickHandler() {
-        view.showComponents('login')
+        view.showComponents('DEVlogIn')
     }
     function EmployerbuttonClickHandler() {
-        console.log('employer-log-in')
+        view.showComponents('logIn')
     }
 }

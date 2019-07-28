@@ -1,0 +1,11 @@
+.form-container {
+position: absolute;
+width: 422px;
+height: 570px;
+left: 653px;
+top: 65px;
+
+background: rgba(255, 255, 255, 0.5);
+backdrop-filter: blur(4px);
+border-radius: 10px;
+}
